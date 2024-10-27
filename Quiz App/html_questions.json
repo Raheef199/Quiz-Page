@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Why we use <br> Element?",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add breakline",
+    "answer_4": "To Create horizontal line",
+    "right_answer": "To Add breakline"
+  },
+  {
+    "title": "Does <img> element has the attribute href?",
+    "answer_1": "Yes",
+    "answer_2": "No, it's for anchor tag <a>",
+    "answer_3": "All elements has this attribute",
+    "answer_4": "Answer 1 and 3 is right",
+    "right_answer": "No, it's for anchor tag <a>"
+  },
+  {
+    "title": "How can we make element text bold?",
+    "answer_1": "Putting it inside <b> tag",
+    "answer_2": "Putting it inside <strong> tag",
+    "answer_3": "Customizing it with font-weight property in CSS",
+    "answer_4": "All answers are right",
+    "right_answer": "All answers are right"
+  },
+  {
+    "title": "How can we include external page inside our HTML page?",
+    "answer_1": "By using include in HTML",
+    "answer_2": "By using load in HTML",
+    "answer_3": "By using iframe tag",
+    "answer_4": "All solutions are wrong",
+    "right_answer": "By using iframe tag"
+  },
+  {
+    "title": "What is the tag that does not exist in HTML?",
+    "answer_1": "<object>",
+    "answer_2": "<basefont>",
+    "answer_3": "<abbr>",
+    "answer_4": "All of them exists",
+    "right_answer": "All of them exists"
+  },
+  {
+    "title": "How do we specify document type of HTML5 Page",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "What is the element that does not exist in HTML5 semantics",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "In HTML can we use this way to add attributes?",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All answers are right",
+    "right_answer": "To Add breakline"
+  },
+  {
+    "title": "Which of elements above has the highest pixels?",
+    "answer_1": "<h1>",
+    "answer_2": "<h2>",
+    "answer_3": "<h3>",
+    "answer_4": "<h6>",
+    "right_answer": "<h1>"
+  }
+]
